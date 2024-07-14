@@ -1,0 +1,9 @@
+ultralytics
+opencv-python
+numpy
+cvzone
+dlib
+scipy
+streamlit
+mediapipe
+-e .
